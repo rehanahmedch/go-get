@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Allah O Akbar")
+
 	fmt.Println("Rehan Ahmed")
 }
